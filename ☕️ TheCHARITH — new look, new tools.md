@@ -2,14 +2,14 @@
 
 **Key tools & highlights**
 
-*⦁  Wijesekara Keyboard Trainer
-⦁ Sinhala Almanac (ලිත)
-⦁ Singlish Converter
-⦁ Number → Sinhala Text
-⦁ Date → Sinhala Text
-⦁ SRT Editor
-⦁ Pali–Sinhala Dictionary
-⦁ Comment Remover*
+*⦁  Wijesekara Keyboard Trainer<br>
+⦁ Sinhala Almanac (ලිත)<br>
+⦁ Singlish Converter<br>
+⦁ Number → Sinhala Text<br>
+⦁ Date → Sinhala Text<br>
+⦁ SRT Editor<br>
+⦁ Pali–Sinhala Dictionary<br>
+⦁ Comment Remover<br>*
 
 [Try it now](https://thecharith.com/)
 
